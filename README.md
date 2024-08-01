@@ -1,6 +1,4 @@
-# AsyncJS
-Section 16 of The Complete JavaScript Course on Udemy
-
+# AsyncJS - Section 16 of The Complete JavaScript Course on Udemy
 
 All code within this Repo is code along material from Jonas Schmedtmann's "The Complete JavaScript Course 2024" on Udemy.
 
